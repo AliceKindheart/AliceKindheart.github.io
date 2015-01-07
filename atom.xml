@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-01-06T17:52:42.665Z</updated>
+  <updated>2015-01-07T15:50:44.727Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,12 +15,46 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[My New Post]]></title>
+    <link href="http://yoursite.com/2015/01/06/My-New-Post/"/>
+    <id>http://yoursite.com/2015/01/06/My-New-Post/</id>
+    <published>2015-01-07T04:50:15.000Z</published>
+    <updated>2015-01-07T04:51:53.000Z</updated>
+    <content type="html"><![CDATA[<p>So, this is my new post. I don’t really have anything to say. I’m just getting a better idea of how hexo works.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>So, this is my new post. I don’t really have anything to say. I’m just getting a better idea of how hexo works.</p>
+]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Computer Coding]]></title>
+    <link href="http://yoursite.com/2014/12/08/Computer-Coding/"/>
+    <id>http://yoursite.com/2014/12/08/Computer-Coding/</id>
+    <published>2014-12-08T20:05:21.000Z</published>
+    <updated>2015-01-06T20:06:13.000Z</updated>
+    <content type="html"><![CDATA[<p>I wish I had the thought to study computer coding back when I was in high school or college, but I didn’t. Instead, I chose to get a Liberal Arts degree in Philosophy. Probably not the most practical decision I’ve ever made — although, to be fair, probably not the most impractical either!  </p>
+<p>So what did I end up doing with my four year degree in Philosophy? Well, I think I would describe my career path as rather eclectic (perhaps not unlike myself). For several years, I worked the night shift at a mental institution for the criminally insane. It was an interesting, but scary place! Before we could get into work all our bags were searched for contraband, which included the usual, but also things like silverware and mirrors. Employees were assaulted by residents on a regular basis, so I was content to stay on the night shift, where residents were locked into their rooms for most of the shift, even though the night shift did have an extra-creepy factor. Imagine walking down a darkened hallway using a flashlight to peer into cells to make sure that the person inside was still breathing and not hanging from the rafters. It felt like the beginning pages of a not-yet-written Stephen King novel. </p>
+<p>After two years at the mental institution, I made a switch to working with animals.  Initially, I thought I wanted to become a veterinarian, but after working for some time at a vet clinic and realizing the amount of time, money, and effort required to go through vet school does not at all equal the amout of money most vets make (the average cost for four years vet school is $200K and 40% of first year veterinarians make less than $31K), I decided to attend an eight week course in south Florida and get into grooming instead. </p>
+<p>I spent about eight years grooming cats and dogs. The work was often physically challenging, but I found it rewarding in many ways. I especially relished the satisfaction of accomplishing a difficult task, like shaving an angry cat, or brushing out a 150lb Newfoundland who has been enjoying life as a yard dog for the past six months. I also really enjoyed working with a close-knit group of people in the grooming shop. We all worked together to get deadlines met in an chaotic environment filled with incredible distractions, like ringing telephones, vacuum cleaners, blow dryers, barking dogs, and many bad smells. </p>
+<p>Eventually, the physical aspects of grooming took their toll and I landed myself a job doing administrative work at a university. The work was very interesting in the beginning, as there was much to learn about the regulations concerning human subjects research and financial conflicts of interest, but I found after five years of doing the same job that I had pretty much met a dead-end. At the time, my boyfriend was in the process of searching for a new job in either the Bay Area or New York City and I decided that after I quit my job at the university to move with him that I would take the opportunity to learn something new — computer coding! As I’ve already said: I wish I had come up with this idea a long time ago. I’ve always enjoyed the challenge of logic puzzles and the satisfaction that comes with accomplishing a difficult task. I’m also excited to get into a field where there is SO MUCH to learn. I’m genuinely looking forward to a career where I can continually work to expand my skill set, work collaboratively with others, and bask in the triumph of accomplishment. </p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>I wish I had the thought to study computer coding back when I was in high school or college, but I didn’t. Instead, I chose to get a Libe]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="http://yoursite.com/2014/12/31/hello-world/"/>
-    <id>http://yoursite.com/2014/12/31/hello-world/</id>
-    <published>2014-12-31T06:28:41.000Z</published>
-    <updated>2014-12-31T06:28:41.000Z</updated>
-    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+    <link href="http://yoursite.com/2014/12/06/Hello-World/"/>
+    <id>http://yoursite.com/2014/12/06/Hello-World/</id>
+    <published>2014-12-06T20:03:45.000Z</published>
+    <updated>2015-01-06T20:08:34.000Z</updated>
+    <content type="html"><![CDATA[<hr>
+<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick_Start">Quick Start</h2>
 <h3 id="Create_a_new_post">Create a new post</h3>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
@@ -40,7 +74,8 @@
 <p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    <![CDATA[<hr>
+<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://he]]>
     </summary>
     
   </entry>
